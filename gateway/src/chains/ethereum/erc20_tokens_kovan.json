@@ -25,12 +25,7 @@
       "address": "0xef13C0c8abcaf5767160018d268f9697aE4f5375",
       "decimals": 18
     },
-    {
-      "symbol": "USDC",
-      "chainId": 42,
-      "address": "0x2F375e94FC336Cdec2Dc0cCB5277FE59CBf1cAe5",
-      "decimals": 6
-    },
+
     {
       "symbol": "REP",
       "chainId": 42,
